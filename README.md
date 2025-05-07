@@ -43,6 +43,22 @@ paper3/
 - Python 3.8+
 - Required packages listed in `requirements.txt`
 
+## Data Download
+
+프로젝트에 필요한 데이터셋은 다음 Google Drive 링크에서 다운로드할 수 있습니다:
+- **Google Drive**: [https://drive.google.com/drive/folders/1vHxKgrkjguXfgmIOUWqbbSdD1XXDnbSK?usp=sharing](https://drive.google.com/drive/folders/1vHxKgrkjguXfgmIOUWqbbSdD1XXDnbSK?usp=sharing)
+
+다운로드한 데이터 파일을 다음과 같이 배치하세요:
+- `paper1/data/` - Paper 1 시스템용 데이터
+- `paper2/data/` - Paper 2 시스템용 데이터
+- `data/` - 통합 시스템용 추가 데이터
+
+데이터셋에는 다음이 포함됩니다:
+- 암호화폐 가격 데이터 (다양한 기간 및 타임프레임)
+- 뉴스 및 감성 분석 데이터
+- 테스트 및 검증용 데이터셋
+- 시장 상태 레이블이 있는 참조 데이터
+
 ## Installation
 
 1. Clone the repository:
@@ -107,4 +123,4 @@ MIT
 
 - Research team members
 - Open source community
-- Data providers 
+- Data providers
